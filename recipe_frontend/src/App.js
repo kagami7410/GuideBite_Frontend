@@ -1,6 +1,7 @@
 import './App.css';
 import NavBar from './components/NavBar';
 import SlideShow from './components/SlideShow';
+import SlideShow1 from './components/SlideShow1';
 
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
 
      <NavBar/>
      <div className='slideShow'>
-       <SlideShow/>
+       <SlideShow1/>
       </div>
      
   
